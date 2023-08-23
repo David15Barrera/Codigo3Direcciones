@@ -1,10 +1,10 @@
 package com.ejercicio1;
 
-import AnalizadorLexico.LexAnalizador;
-import AnalizadorSintactico.ParserAnanl;
-
 import java.io.FileReader;
 import java.io.InputStreamReader;
+
+import AnalizadorLexico.LexAnalizador;
+import AnalizadorSintactico.ParserAnanl;
 
 public class Ejercicio1 {
 
